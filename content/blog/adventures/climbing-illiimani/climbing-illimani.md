@@ -24,7 +24,7 @@ I got this question a lot. The question itself is the answer. Not a lot of peopl
 ## Preparation
 The two things you need to do to prepare yourself physically before attempting a high altitude climb are, in declining order of importance, (1) get acclimated to high altitude and (2) get into hiking shape.
 
-It does not matter how in shape or how good of an athlete you are. If you are not acclimated to high altitude you will fail, which means wasting a lot of time and money and possibly also ruining your climbing partners' trips if you are sharing a guide and you all have to turn around. Furthermore, at Illimani levels of altitude [death is a real possibility](https://www.outsideonline.com/health/training-performance/moderate-altitude-deaths/) as you are putting your body under enormous stress.
+It does not matter how in shape or how good of an athlete you are, if you are not acclimated to high altitude you will fail. This means wasting a lot of time and money and possibly also ruining your climbing partners' trips if you are sharing a guide and you all have to turn around because you can't continue. Furthermore, at Illimani levels of altitude you are putting your body under enormous stress and [death is a real possibility](https://www.outsideonline.com/health/training-performance/moderate-altitude-deaths/).
 
 I had a decent baseline as I was living in Denver at the time and doing a lot of mountain biking and hiking between 6,000 and 14,000 ft. I started this trip by flying to Mexico City (7,300 ft) and spending a few days there before going on to Peru and doing the epic 8-day Huayhuash circuit which involves 10-16 miles per day of very arduous hiking between 12,000 and 16,000 ft. I then recovered for a few days at Lake Titicaca (12,500 ft) before heading to La Paz and meeting up with my friends and climbing partners, Victor and John, who had just flown in from Denver. Together we then did 17,690 ft [Charquini](https://www.summitpost.org/charquini-ch-iyar-qurini/154827), which itself is a beautiful and highly recommendable climb.
 
@@ -64,6 +64,7 @@ Make sure your guide provides the following:
 - Outer shell jacket
 - Windproof mountaineering pants
 - Crampons
+- Gaiters
 - Ropes, carabiners, harness, etc
 - Helmet 
 - Ice axe
@@ -83,7 +84,7 @@ Make sure your guide provides the following:
 ## Guide
 We used Juancho and Julio from Altitud6000. A recent Google search did not turn up much for them, but if you are able to track them down, I can recommend them. They were certified mountain guides and seemed to have plenty of experience. They do, however, only speak Spanish. The service included transportation to and from basecamp (about 5 hours each way), all meals cooked by a chef, porters to take everything up to high camp, and all the mountaineering and camping gear. 
 
-We paid them about $500 per person which seemed quite a bit cheaper than other companies. Western companies in particular are an order of magnitude more expensive than this, and I don't see how they could be signficantly better.
+We paid them about $500 per person which seemed quite a bit cheaper than other companies. Western companies in particular are an order of magnitude more expensive than this, and I don't see how they could be significantly better.
 
 ## The Climb
 
@@ -97,7 +98,7 @@ After arriving at basecamp, we set up our tents, did a quick safety course, and 
   alt='the sun sets at the base of Illimani'
 />
 
-While this was happening, the chef (Juancho's girlfriend) was preparing dinner. The temperature began plummeting with the sun now completely gone. We all gathered in the dining tent and Juancho told us stories from his many years of guiding, including how he had once traversed . We then called it an early night.
+While this was happening, the chef (Juancho's girlfriend) was preparing dinner. The temperature began plummeting with the sun now completely gone. We all gathered in the dining tent and Juancho told us stories from his many years of guiding, including how he had once traversed all four peaks of Illimani (see the first photo in this post). We then called it an early night.
 
 <Image 
   src='./basecamp-dinner.jpeg'
@@ -125,8 +126,6 @@ We began at a reasonable hour. The porters had arrived from the town where we ha
     <figcaption>Our porters</figcaption>
 </div>
 
-
-
 It was sunny and warm as we ascended a fairly easy, switch-backed trail which turned into loose sand and then into a pretty challenging, very long rock scramble.
 
 <Image 
@@ -135,17 +134,15 @@ It was sunny and warm as we ascended a fairly easy, switch-backed trail which tu
   title='The early stages of day one'
 />
 
+Finally, at around 18,000 ft, we reached our high camp, Nido de Condores (Condors' Nest). I would estimate we had climbed about 3,500 ft in roughly 5 hours.
 
-Finally, at around 18,000 feet, we reached our high camp, Nido de Condores (Condors' Nest). I would estimate we had climbed about 3,500 feet in roughly 5 hours.
-
-The spot was beautiful but rather inhospitable. It was a very exposed ledge at the foot of the glacier, with nonstop freezing wind. We spent the first hour gathering rocks to tie down the tents and to build a wind barrier for the stove.
+The spot was beautiful but rather inhospitable on a very exposed ledge at the foot of the glacier, with nonstop freezing wind. We spent the first hour gathering rocks to tie down the tents and to build a wind barrier for the stove.
 
 <Image
   src='./tent.jpeg'
   alt=''
   title=''
 />
-
 
 Then there was nothing to do except eat, drink as much tea as possible, and try to fall asleep, which proved quite difficult as the cold became extreme as night fell.
 
@@ -156,15 +153,15 @@ Then there was nothing to do except eat, drink as much tea as possible, and try 
   title='Our route on day three. Only the false summit can be seen.'
 />
 
-After managing a couple hours of sleep, I was awoken around midnight and told to get moving. It was so cold outside of my sleeping bag that although I am writing this almost two years later, I can still feel the dread I felt at the prospect of leaving that sleeping bag to fumble around for the rest of my clothes.
+After managing a couple hours of sleep, I was awoken around midnight and told to get moving. It was so cold outside of my sleeping bag that although I am writing this almost two years later, I can still feel the dread at the prospect of leaving that sleeping bag to fumble around for the rest of my clothes.
 
 Fortunately the wind had stopped and after suiting up, we put on our crampons and began climbing the glacier into a clear but very cold night. 
 
 Julio and I were roped up and Victor and John were with Juancho. We got a head start, but because I had been the slowest climber on Charquini, I expected the other group to catch up to us in no time. Instead, to my surprise, the lights from their headlamps seem to fall further and further behind. It was obvious something was wrong and sure enough there eventually came a yell for us to stop and wait for them.
 
-Standing on steep ice, shivering because I was no longer producing body heat was super fun. Finally they reached us. John had hit the wall and decided he could no longer continue. Impressively, he had summoned the strength to climb the last very long and steep pitch up to where I was otherwise he would have forced Victor to turn around with him. Julio and I added Victor to our rope and continued our ascent as John and Juancho descended back to high camp.
+Standing on steep ice, shivering because I was no longer producing body heat was super fun. Finally they reached us. John had hit the wall and decided he could no longer continue. Impressively, he had summoned the strength to climb the last very long and steep pitch up to where I was, otherwise he would have forced Victor to turn around with him. Julio and I added Victor to our rope and continued our ascent as John and Juancho descended back to high camp.
 
-After the initial ascent, we reached a short plateau which gave us some much needed rest. The sun then began to rise and revealed just how much we had left. I had felt surprisingly strong up to this point but seeing what I thought was the summit still so far above us was the crack in my mental fortitude that allowed the fatigue to begin to set in. Julio then informed us that it was a false summit we were seeing. My spirit was crushed. My pace began slowing dramatically and my requests for _descansos_ became more and more frequent. Every step became difficult. I started to develop a dry cough.
+After a short while, we reached a small plateau which gave us some much needed rest. The sun then began to rise and revealed just how much we had left. I had felt surprisingly strong up to this point but seeing what I thought was the summit still so far above us was the crack in my mental fortitude that allowed the fatigue to begin setting in. Julio then informed us that it was a false summit we were seeing. My spirit was crushed. My pace began slowing dramatically and my requests for _descansos_ became more and more frequent. Every step became difficult. I started to develop a dry cough.
 
 <Image
   src='./final-ascent.jpeg'
@@ -180,8 +177,7 @@ I felt the rope behind me tighten. Victor was completely exhausted  too and taki
   title=''
 />
 
-
-Julio was starting to get concerned about us and told us to keep moving and it wasn't too far to go. The true summit was in sight now. We put our heads down and climbed the last short pitch onto a ridge, and then a 50 yard flat traverse, a victory amble, to the summit.
+Julio was starting to get concerned and told us to keep moving and it wasn't too far to go. The true summit was in sight now. We put our heads down and climbed the last short pitch onto a ridge, and then a 50 yard flat traverse, a victory amble, to the summit.
 
 <Image
   src='./summit.jpeg'
@@ -191,7 +187,7 @@ Julio was starting to get concerned about us and told us to keep moving and it w
 
 We had done it. Victor immediately collapsed and actually began snoring. After his nap, we took photos, refueled with snacks while enjoying the view, and began our descent. The temperature skyrocketed as the sun got higher and I had to take most of my layers off. The snow became slushy and we were able to do a lot of glissading which was fun and got us down in no time.
 
-We approached basecamp waving our ice axes in celebration. The porters, who had climbed up from basecamp again that morning, and now included two 12-year-old boys, took photos of the crazy gringos. I immediately collapsed in my tent and took a nap.
+We approached our high camp waving our ice axes in celebration. The porters, who had climbed up from basecamp again that morning, and now included two 12-year-old boys, took photos of the crazy gringos. I immediately collapsed in my tent and took a nap.
 
 We then climbed all the way down to basecamp and drove back to La Paz. I don't remember much of that drive!
 
@@ -210,7 +206,4 @@ We celebrated with some local fine dining, which gave me food poisoning, and I s
 />
 
  If anyone is need of an extreme weight loss program, I can highly recommend the Bolivian mountaineering and food poisoning regimen. I looked like a POW afterwards.
-
-
-
 
