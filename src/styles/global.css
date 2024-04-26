@@ -251,7 +251,7 @@ a:focus {
 /* In blog posts, allow images to be wider than text */
 .global-wrapper:has(.blog-post) {
   max-width: unset;
-  header, footer, h2, h3, h4, h5, h6, ul, ol, p:not(:has(img)) {
+  div, header, footer, h2, h3, h4, h5, h6, ul, ol, p:not(:has(img)) {
     max-width: var(--maxWidth-wrapper);
     margin-left: auto;
     margin-right: auto;

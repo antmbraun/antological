@@ -38,6 +38,8 @@ The temperature was warm but the sky was overcast most of the time, nicely prese
 
 After 3,200 ft of climbing, we decided to call it and transitioned to downhill mode. We then descended a ridgeline through a mix of trees and wide-open fields strewn with boulders. The snow was deep, soft and untouched. At one point, when it start to get a bit sun-affected, Cody had us traverse hard left for maybe 100 yards until it was soft again. One of the many benefits of having a guide.
 
+<div style="padding: 80vh 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/939589946?h=f2ea175736&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 The last pitch was a steep, shaded gully with some of the deepest snow of the day, which then flattened into a long runout onto a frozen lake.
 
 <Image
