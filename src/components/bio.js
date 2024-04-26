@@ -23,7 +23,7 @@ const Bio = () => {
         alt="Anthony Braun"
       />
       <p>
-        I'm Anthony (Ant) Braun, a  <a href="https://www.linkedin.com/in/anthonybraun/">software engineer at Mindbody</a> and an <a href="https://www.instagram.com/antventurz">adventurer</a> based in Washington, DC but often somewhere else. <a href="mailto:antmbraun@gmail.com">Email me</a>.
+        Anthony (Ant) Braun is a  <a href="https://www.linkedin.com/in/anthonybraun/">software engineer at Mindbody</a> and an <a href="https://www.instagram.com/antventurz">adventurer</a> based in Washington, DC. <a href="mailto:antmbraun@gmail.com">Email him</a>.
       </p>
     </div>
   )
