@@ -105,7 +105,7 @@ While this was happening, the chef (Juancho's girlfriend) was preparing dinner. 
 />
 
 ### Day Two: High camp
-We began at a reasonable hour. The porters had arrived from the town where we had bought the poop containers. They included a 70-year-old man, two 16-year-old girls who would not stop giggling the entire trip, and two younger men who did most of the work. And in contrast to our expensive gear high-end gear, they wore tennis shoes or rubber boots. Instead of backpacks they used blankets fastened with a knot.
+We began at a reasonable hour. The porters had arrived from the town where we had bought the poop containers. They included a 70-year-old man, two 16-year-old girls who would not stop giggling the entire trip, and two younger men who did most of the work. And in contrast to our expensive high-end gear, they wore tennis shoes or rubber boots. Instead of backpacks they used blankets fastened with a knot.
 
 <div class="img-row">
   <figure>
