@@ -126,3 +126,4 @@ Hopefully someone finds it useful.
 Other things I want to automate for this blog:
 - Meta description, meta image, and post title creation using generative AI
 - Crossposting to Reddit and X
+- Retroactive tagging. Say I create a new tag for a new post. AI could check all existing posts to see if any of them should also be tagged with this new tag.
