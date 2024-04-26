@@ -8,7 +8,7 @@ featuredImage: "gatsby"
 
 I just started this blog and because I suffer from the typical developer affliction of constantly starting projects and then forgetting about them, I decided to enlist the help of ChatGPT to make creating new posts as frictionless as possible.
 
-Together "we" created this script that automates new post creation in a Gatsby blog.
+Together "we" created this script that automates new post creation for a Gatsby blog.
 
 ```Python
 import os
@@ -121,4 +121,8 @@ if __name__ == "__main__":
     main()
 ```
 
-Hopefully someone finds it useful!
+Hopefully someone finds it useful.
+
+Other things I want to automate for this blog:
+- Meta description, meta image, and post title creation using generative AI
+- Crossposting to Reddit and X
