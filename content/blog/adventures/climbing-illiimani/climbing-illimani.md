@@ -38,7 +38,7 @@ So, in total, before starting the Illimani climb, I had spent more than 2 weeks 
 
 Also, get into hiking-specific shape. Being in shape for other cardio-intensive sports will help but it's not the same.
 
-The bottom line is preparation will not only ensure that you survive and don't waste your time. The more prepared you are the more you will enjoy it.
+Doing the necessary physical preparation will not only ensure that you survive and don't waste your time. The more prepared you are the more you will enjoy the experience.
 
 ## Gear
 
