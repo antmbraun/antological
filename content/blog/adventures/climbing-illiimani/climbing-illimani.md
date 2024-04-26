@@ -81,12 +81,14 @@ Make sure your guide provides the following:
   />
 
 ## Guide
-We used Juancho and Julio from Altitud6000. A recent Google search did not turn up much for them, but if you are able to track them down, I can recommend them. They were certified mountain guides and seemed to have plenty of experience. They do, however, only speak Spanish. The service included transportation to and from basecamp (about 5 hours each way), all meals cooked by a chef, porters to take everything up to high camp, and all the mountaineering and camping gear. We paid them about $500 per person which seemed quite a bit cheaper than other companies.
+We used Juancho and Julio from Altitud6000. A recent Google search did not turn up much for them, but if you are able to track them down, I can recommend them. They were certified mountain guides and seemed to have plenty of experience. They do, however, only speak Spanish. The service included transportation to and from basecamp (about 5 hours each way), all meals cooked by a chef, porters to take everything up to high camp, and all the mountaineering and camping gear. 
+
+We paid them about $500 per person which seemed quite a bit cheaper than other companies. Western companies in particular are an order of magnitude more expensive than this, and I don't see how they could be signficantly better.
 
 ## The Climb
 
 ### Day One: Base camp
-The guides picked us up from our hotel and after escaping the insane La Paz traffic, we wound our way through the dry hills east of the city.  Illimani the occasional appearance, each time larger than before. About an hour from our destination we stopped in a small town to pay an entrance fee and to buy a mandatory poop container (which thankfully I did not have to use).
+The guides picked us up from our hotel and after escaping the insane La Paz traffic, we wound our way through the dry hills east of the city.  Illimani made the occasional appearance, each time larger than before. About an hour from our destination we stopped in a small town to pay an entrance fee and to buy a mandatory poop container (which thankfully I did not have to use).
 
 After arriving at basecamp, we set up our tents, did a quick safety course, and a short sunset hike to the top of a nearby plateau.
 
