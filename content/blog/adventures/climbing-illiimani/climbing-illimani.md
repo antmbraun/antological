@@ -19,14 +19,14 @@ In June of 2022, two friends and I set out to climb [Illimani](https://en.wikipe
 It was an amazing experience. This post will give you an overview of what it was like and how to be successful if you also feel inclined to attempt it.
 
 ## Why Illimani?
-I got this question a lot. The question itself is the answer. Not a lot of people climb it and for me solitude makes an outdoor adventure more special. Most people seem to choose to do [Huayna Potosí](https://en.wikipedia.org/wiki/Huayna_Potos%C3%AD) instead, which is also over 6000m but not quite 20,000 ft. So Illimani is higher and more secluded but both are good options!
+I got this question a lot. The question itself is the answer. Not a lot of people climb it and for me solitude makes an outdoor adventure more special. Most people seem to choose to do [Huayna Potosí](https://en.wikipedia.org/wiki/Huayna_Potos%C3%AD) instead, which is also over 6,000m but not quite 20,000 ft. So Illimani is higher and offers more solitude but both are good options!
 
 ## Preparation
 The two things you need to do to prepare yourself physically before attempting a high altitude climb are, in declining order of importance, (1) get acclimated to high altitude and (2) get into hiking shape.
 
 It does not matter how in shape or how good of an athlete you are. If you are not acclimated to high altitude you will fail, which means wasting a lot of time and money and possibly also ruining your climbing partners' trips if you are sharing a guide and you all have to turn around. Furthermore, at Illimani levels of altitude [death is a real possibility](https://www.outsideonline.com/health/training-performance/moderate-altitude-deaths/) as you are putting your body under enormous stress.
 
-I had a decent baseline as I was living in Denver at the time and doing a lot of mountain biking and hiking between 6,000 and 14,000 feet. I then flew to Mexico City (7,300 feet), spent a few days there before going to Peru and doing the epic 8-day Huayhuash circuit which involves 10-16 miles per day of very arduous hiking between 12,000 and 16,000 feet.  After this, I recovered for a few days at Lake Titicaca (12,500 ft) before heading to La Paz and meeting up with my friends and climbing partners, Victor and John, who had just flown in from Denver. Together we then did 17,690 ft [Charquini](https://www.summitpost.org/charquini-ch-iyar-qurini/154827), which itself is a beautiful and highly recommendable climb.
+I had a decent baseline as I was living in Denver at the time and doing a lot of mountain biking and hiking between 6,000 and 14,000 feet. I started this trip by flying to Mexico City (7,300 feet) and spending a few days there before going on to Peru and doing the epic 8-day Huayhuash circuit which involves 10-16 miles per day of very arduous hiking between 12,000 and 16,000 feet.  After this, I recovered for a few days at Lake Titicaca (12,500 ft) before heading to La Paz and meeting up with my friends and climbing partners, Victor and John, who had just flown in from Denver. Together we then did 17,690 ft [Charquini](https://www.summitpost.org/charquini-ch-iyar-qurini/154827), which itself is a beautiful and highly recommendable climb.
 
 <Image
   src='./charquini.jpeg'
@@ -34,7 +34,7 @@ I had a decent baseline as I was living in Denver at the time and doing a lot of
   title='Aproaching the summit of Charquini. The Bolivian sun is extremely intense and I will blame my first wrinkle on the massive sunburn I got on my forehead that day. Wear sunscreen!'
 />
 
-So, in total, before starting the Illimani climb, I had spent more than 2 weeks above 7,000 ft, and at least half of that above 12,000 ft, with several forays to between 16,000 and 17,690 ft. This was decent but I felt like I was 90% to where I should have been before attempting a 21,000+ ft peak. I should have added Huayna Potosí which is next to Charquini and just a hair under 20,000 ft, but alas we ran out of time.
+So in total, before starting the Illimani climb, I had spent more than 2 weeks above 7,000 ft, and at least half of that above 12,000 ft, with several forays to between 16,000 and 17,690 ft. This was decent but I felt like I was 90% to where I should have been before attempting a 21,000+ ft peak. I should have added Huayna Potosí which is next to Charquini and just a hair under 20,000 ft, but alas we ran out of time.
 
 Also, get into hiking-specific shape. Being in shape for other cardio-intensive sports will help but it's not the same.
 
