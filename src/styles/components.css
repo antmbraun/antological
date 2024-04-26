@@ -1,0 +1,38 @@
+.img-row {
+  margin: 5rem 0;
+  width: calc(100vw - 40px);
+  margin-left: 20px;
+  justify-content: flex-end;
+
+  @media screen and (min-width: 768px) {
+    margin-right: 0;
+    width: 100%;
+  }
+
+  figure {
+    display: flex;
+    gap: 4vw;
+    overflow-x: scroll;
+    margin-left: -20px;
+
+    @media screen and (min-width: 768px) {
+      justify-content: center;
+    }
+
+    >* {
+      flex-basis: 50%;
+      min-width: 300px;
+    }
+
+    >*:last-child {
+      margin-right: 20px !important;
+    }
+
+  }
+
+  figcaption {
+    display: block;
+    font-style: italic;
+    text-align: center;
+  }
+}
