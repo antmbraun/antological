@@ -185,7 +185,7 @@ Julio was starting to get concerned and told us to keep moving and that it wasn'
   title=''
 />
 
-We had done it. Victor immediately collapsed and actually began snoring. After his nap, we took photos, refueled with snacks while enjoying the view, and began our descent. The temperature skyrocketed as the sun got higher and I had to take most of my layers off. The snow became slushy and we were able to do a lot of glissading which was fun and got us down in no time.
+_Logramos!_ yelled Julio. We had done it. Victor immediately collapsed and actually began snoring. After his nap, we took photos, refueled with snacks while enjoying the view, and began our descent. The temperature skyrocketed as the sun got higher and I had to take most of my layers off. The snow became slushy and we were able to do a lot of glissading which was fun and got us down in no time.
 
 We approached our high camp waving our ice axes in celebration. The porters, who had climbed up from basecamp again that morning, and now included two 12-year-old boys, took photos of the crazy gringos. I immediately collapsed in my tent and took a nap.
 
@@ -206,4 +206,3 @@ We celebrated with some local fine dining, which gave me food poisoning, and I s
 />
 
  If anyone is need of an extreme weight loss program, I can highly recommend the Bolivian mountaineering and food poisoning regimen. I looked like a POW afterwards.
- 
