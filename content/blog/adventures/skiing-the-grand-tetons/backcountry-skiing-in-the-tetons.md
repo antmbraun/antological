@@ -22,7 +22,7 @@ The scenery was spectacular right off the bat.
  alt="The grand tetons in winter"
 />
 
-I had cross country skied once before and it was a similar motion, and Sam is just a good athlete, so we made fast progress. The only hard part was the turns, especially if they were steep. After falling a few times, I learned that the trick is to first climb above the turn and then take as large steps as possible as you climb, so that your weight stays forward. If your center of gravity falls too far back, your skis will lose grip and you will start sliding backwards.
+I had cross country skied once before and it was a similar motion, and Sam is just a good athlete, so we made fast progress. The only hard part was the turns, especially if they were steep. After falling a few times, I learned that the trick is to first climb above the turn and to take as large steps as possible as you climb, so that your weight stays forward. If your center of gravity falls too far back, your skis will lose grip and you will start sliding backwards.
 
 <Image
  src="./approach2.jpeg"
@@ -36,7 +36,7 @@ The temperature was warm but the sky was overcast most of the time, nicely prese
  alt="The grand tetons in winter"
 />
 
-After 3,200 ft of climbing, we decided to call it and transitioned to downhill mode. We then descended a ridgeline through a mix of trees and wide-open fields strewn with boulders. The snow was deep, soft and untouched. At one point, when it start to get a bit sun-affected, Cody had us traverse hard left for maybe 100 yards until it was soft again. One of the many benefits of having a guide.
+After 3,200 ft of climbing, we decided to call it and transitioned to downhill mode. We then descended a ridgeline with tight trees that spilled out into several wide-open fields strewn with massive boulders. The snow was deep, soft and untouched. At one point, when it start to get a bit sun-affected, Cody had us traverse hard left for maybe 100 yards until it was soft again. One of the many benefits of having a guide.
 
 <div style="margin: 4rem 0; padding: 80vh 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/939589946?h=f2ea175736&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -49,7 +49,7 @@ The last pitch was a steep, shaded gully with some of the deepest snow of the da
  width="800"
 />
 
-We high-fived each other and basked in the satisfaction of having had such a perfect descent. As the other two got impatient with me taking photos and went on ahead, I found myself alone in the falling snow, surrounded by mountains in one of the America's most beautiful national parks. An eagle circled overhead.
+We high-fived each other and basked in the afterglow of a perfect descent. As the other two got impatient with me taking photos and went on ahead, I found myself alone in the falling snow, surrounded by mountains in one of the America's most beautiful national parks. An eagle circled overhead.
 
 <Image
  src="./lake2.jpeg"

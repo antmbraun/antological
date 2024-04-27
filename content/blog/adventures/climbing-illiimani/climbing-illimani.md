@@ -46,8 +46,8 @@ You will be making your summit push before sunrise and temperatures get extremel
 
 Assuming you are flying to La Paz, your capacity for bringing gear will be limited. Almost everything you need is available for hire or purchase in La Paz and usually included if you hire a guide. However, I would bring the following things since they are small and expensive / impossible to rent in La Paz:
 
-- Glacier sunglasses
-- Polarized sunglasses
+- Glacier sunglasses (for while you're on the snow)
+- Polarized sunglasses (for all other times)
 - Light down jacket. Your guide will provide a thicker down jacket and a shell to go on top of this.
 - Mountaineering socks
 - Base layer
@@ -89,7 +89,7 @@ We paid them about $500 per person which seemed quite a bit cheaper than other c
 ## The Climb
 
 ### Day One: Base camp
-The guides picked us up from our hotel and after escaping the insane La Paz traffic, we wound our way through the dry hills east of the city.  Illimani made the occasional appearance, each time larger than before. About an hour from our destination we stopped in a small town to pay an entrance fee and to buy a mandatory poop container (which thankfully I did not have to use).
+The guides picked us up from our hotel and after escaping the insane La Paz traffic, we wound our way through the dry hills east of the city.  Illimani made the occasional appearance, each time larger than before. About an hour from our destination we stopped in a small town to pay an entrance fee and to buy a mandatory poop container (which thankfully I did not have to use). The local authorities seem to be doing a good job of preserving their mountains. Both Charquini and Illimani were in great shape with no signs of human waste and very little trash.
 
 After arriving at basecamp, we set up our tents, did a quick safety course, and a short sunset hike to the top of a nearby plateau.
 
@@ -110,20 +110,20 @@ We began at a reasonable hour. The porters had arrived from the town where we ha
 
 <div class="img-row">
   <figure>
-      <Image 
-        src='./porter_girls.jpeg'
-        alt='Eating dinner at basecamp, Illimani, Bolivia'
-      />
-      <Image 
-        src='./porter_old_man.jpeg'
-        alt='Eating dinner at basecamp, Illimani, Bolivia'
-      />
-      <Image 
-        src='./porter_old_man2.jpeg'
-        alt='Eating dinner at basecamp, Illimani, Bolivia'
-      />
+    <Image 
+      src='./porter_girls.jpeg'
+      alt='Eating dinner at basecamp, Illimani, Bolivia'
+    />
+    <Image 
+      src='./porter_old_man.jpeg'
+      alt='Eating dinner at basecamp, Illimani, Bolivia'
+    />
+    <Image 
+      src='./porter_old_man2.jpeg'
+      alt='Eating dinner at basecamp, Illimani, Bolivia'
+    />
   </figure>
-    <figcaption>Our porters</figcaption>
+  <figcaption>Our porters</figcaption>
 </div>
 
 It was sunny and warm as we ascended a fairly easy, switch-backed trail which turned into loose sand and then into a pretty challenging, very long rock scramble.
@@ -131,7 +131,7 @@ It was sunny and warm as we ascended a fairly easy, switch-backed trail which tu
 <Image 
   src='./day1.jpeg'
   alt='a man climbs Illimani'
-  title='The early stages of day one'
+  title='The early stages of day one. Basically the entire route can be seen above my head. Our high camp was at the top of the rock pyramid and the false summit which is just before the real summit is at the top of the snow.'
 />
 
 Finally, at around 18,000 ft, we reached our high camp, Nido de Condores (Condors' Nest). I would estimate we had climbed about 3,500 ft in roughly 5 hours.
@@ -169,7 +169,7 @@ After a short while, we reached a small plateau which gave us some much needed r
   title='My face upon realizing how much we still had to climb just to get to the false summit behind me.'
 />
 
-I felt the rope behind me tighten. Victor was completely exhausted  too and taking unannounced breaks. He had a far off look on his face and was muttering things in Spanish.
+I felt the rope behind me tighten. Victor was completely exhausted too and taking unannounced breaks. He had a far off look on his face and was muttering things in Spanish.
 
 <Image
   src='./final-ascent-lapaz.jpeg'
@@ -177,7 +177,7 @@ I felt the rope behind me tighten. Victor was completely exhausted  too and taki
   title=''
 />
 
-Julio was starting to get concerned and told us to keep moving and it wasn't too far to go. The true summit was in sight now. We put our heads down and climbed the last short pitch onto a ridge, and then a 50 yard flat traverse, a victory amble, to the summit.
+Julio was starting to get concerned and told us to keep moving and that it wasn't too far to go. The true summit was in sight now. We put our heads down and climbed the last short pitch onto a ridge, and then a 50 yard flat traverse, a victory amble, to the summit.
 
 <Image
   src='./summit.jpeg'
@@ -206,4 +206,4 @@ We celebrated with some local fine dining, which gave me food poisoning, and I s
 />
 
  If anyone is need of an extreme weight loss program, I can highly recommend the Bolivian mountaineering and food poisoning regimen. I looked like a POW afterwards.
-
+ 
