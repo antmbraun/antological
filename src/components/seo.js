@@ -8,8 +8,8 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Seo = ({ description, title, children }) => {
-  const { site } = useStaticQuery(
+const Seo = ({ description, featuredImage, title, children }) => {
+  const { site, ogImageDefault } = useStaticQuery(
     graphql`
       query {
         site {
@@ -19,6 +19,13 @@ const Seo = ({ description, title, children }) => {
             social {
               twitter
             }
+            siteUrl
+          }
+        }
+
+        ogImageDefault: file(relativePath: { eq: "antological_meta.jpeg" }) {
+          childImageSharp {
+            gatsbyImageData(layout: FIXED, height: 630, width: 1200)
           }
         }
       }
@@ -27,6 +34,12 @@ const Seo = ({ description, title, children }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
+  const defaultImgUrl = ogImageDefault.childImageSharp.gatsbyImageData.images.fallback.src
+
+  const imagePath = constructUrl(
+    site.siteMetadata.siteUrl, 
+    featuredImage ?? defaultImgUrl
+  )
 
   return (
     <>
@@ -35,6 +48,7 @@ const Seo = ({ description, title, children }) => {
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
+      <meta property="og:image" content={imagePath} />
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:creator"
@@ -42,9 +56,15 @@ const Seo = ({ description, title, children }) => {
       />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
+      <meta name="twitter:image" content={imagePath} />
       {children}
     </>
   )
+
+  function constructUrl(baseUrl, path) {
+    if (baseUrl === "" || path === "") return "";
+    return `${baseUrl}${path}`;
+  }
 }
 
 export default Seo
