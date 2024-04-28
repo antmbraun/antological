@@ -69,6 +69,7 @@ export const Head = ({ data: { markdownRemark: post } }) => {
       title={post.frontmatter.title}
       description={post.frontmatter.description || post.excerpt}
       featuredImage={getSrc(post.frontmatter.featuredImage)}
+      url={post.fields.slug}
     />
   )
 }
@@ -90,6 +91,9 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      fields {
+        slug
+      }
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")

@@ -8,7 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-const Seo = ({ description, featuredImage, title, children }) => {
+const Seo = ({ description, featuredImage, url, title, children }) => {
   const { site, ogImageDefault } = useStaticQuery(
     graphql`
       query {
@@ -49,6 +49,7 @@ const Seo = ({ description, featuredImage, title, children }) => {
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
       <meta property="og:image" content={imagePath} />
+      <meta property="og:url" content={constructUrl(site.siteMetadata.siteUrl, url)} />
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:creator"
