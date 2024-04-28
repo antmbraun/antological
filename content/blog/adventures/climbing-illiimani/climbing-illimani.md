@@ -185,7 +185,9 @@ Julio was starting to get concerned and told us to keep moving and that it wasn'
   title=''
 />
 
-_Logramos!_ yelled Julio. We had done it. Victor immediately collapsed and actually began snoring. After his nap, we took photos, refueled with snacks while enjoying the view, and began our descent. The temperature skyrocketed as the sun got higher and I had to take most of my layers off. The snow became slushy and we were able to do a lot of glissading which was fun and got us down in no time.
+_Logramos!_ yelled Julio. We had done it. Victor immediately collapsed and actually began snoring. After his nap, we took photos and refueled with snacks while enjoying the view. Though it is not a volcano, Illimani seems like it with its massive prominence commanding an airplane-like view over the surrounding area. 
+
+We then began our descent. The temperature skyrocketed as the sun got higher and I had to take most of my layers off. The snow became slushy and we were able to do a lot of glissading which was fun and got us down in no time.
 
 We approached our high camp waving our ice axes in celebration. The porters, who had climbed up from basecamp again that morning, and now included two 12-year-old boys, took photos of the crazy gringos. I immediately collapsed in my tent and took a nap.
 
