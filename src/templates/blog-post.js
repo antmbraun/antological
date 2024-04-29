@@ -15,10 +15,12 @@ const BlogPostTemplate = ({
   const siteTitle = site.siteMetadata?.title || `Title`
 
   let disqusConfig = {
-    url: `${site.siteMetadata.siteUrl + location.pathname}`, 
+    url: site.siteMetadata.siteUrl + post.fields.slug,
     identifier: post.id,
     title: post.title,
   }
+
+  console.log(disqusConfig)
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -93,6 +95,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     markdownRemark(id: { eq: $id }) {
