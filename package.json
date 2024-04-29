@@ -13,6 +13,7 @@
     "@mdx-js/mdx": "^3.0.1",
     "@mdx-js/react": "^3.0.1",
     "gatsby": "^5.13.3",
+    "gatsby-plugin-disqus": "^1.2.6",
     "gatsby-plugin-feed": "^5.13.1",
     "gatsby-plugin-google-gtag": "^5.13.1",
     "gatsby-plugin-image": "^3.13.1",

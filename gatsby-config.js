@@ -15,6 +15,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+        shortname: `braunage`
+      }
+    },
+    {
       resolve: `gatsby-plugin-sitemap`,
       options: {
         query: `

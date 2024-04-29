@@ -4,6 +4,7 @@ import { getSrc } from "gatsby-plugin-image"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
+import { Disqus } from 'gatsby-plugin-disqus';
 import Seo from "../components/seo"
 
 
@@ -12,6 +13,12 @@ const BlogPostTemplate = ({
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+
+  let disqusConfig = {
+    url: `${site.siteMetadata.siteUrl + location.pathname}`, 
+    identifier: post.id,
+    title: post.title,
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -28,6 +35,7 @@ const BlogPostTemplate = ({
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <Disqus config={disqusConfig} />
         <hr />
         <footer>
           <Bio />
