@@ -4,12 +4,8 @@ import React from 'react';
 
 // Define the Filter component
 const Filter = ({ posts, onTagSelect, selectedTag }) => {
-  // Define the initial state for the selected tag
-  // const [selectedTag, setSelectedTag] = useState(null);
-
   // Handle the change event of the dropdown
   const handleTagChange = (event) => {
-    // setSelectedTag(event.target.value);
     onTagSelect(event.target.value);
   };
 

@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Link, graphql } from "gatsby"
+import React, { useState, useEffect } from 'react';
+import { Link, graphql, navigate } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -9,11 +9,26 @@ import Filter from "../components/filter"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
-  const [selectedTag, setSelectedTag] = useState('');
 
+  // Get the initial tag from URL search parameters and replace hyphens with spaces
+  const initialTag = new URLSearchParams(location.search).get('tag')?.replace(/-/g, ' ') || '';
+
+  const [selectedTag, setSelectedTag] = useState(initialTag);
+
+  useEffect(() => {
+    // When selectedTag changes, update the URL by replacing spaces with hyphens
+    const tagForURL = selectedTag.replace(/\s+/g, '-');
+    if (selectedTag) {
+      navigate(`?tag=${tagForURL}`, { replace: true });
+    } else {
+      navigate(`/`, { replace: true });
+    }
+  }, [selectedTag]);
+
+  // Filter posts based on the selectedTag which has spaces decoded from the URL
   const filteredPosts = selectedTag 
-  ? posts.filter(post => post.frontmatter.tags ? post.frontmatter.tags.includes(selectedTag) : false)
-  : posts;
+    ? posts.filter(post => post.frontmatter.tags ? post.frontmatter.tags.includes(selectedTag) : false)
+    : posts;
 
   if (filteredPosts.length === 0) {
     return (
@@ -23,9 +38,8 @@ const BlogIndex = ({ data, location }) => {
           No posts found. Try selecting a different tag.
         </p>
       </Layout>
-    )
+    );
   }
-
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -69,11 +83,6 @@ const BlogIndex = ({ data, location }) => {
 
 export default BlogIndex
 
-/**
- * Head export to define metadata for the page
- *
- * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
 export const Head = () => <Seo title="All posts" />
 
 export const pageQuery = graphql`
