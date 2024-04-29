@@ -171,8 +171,8 @@ I felt the rope behind me tighten. Victor was completely exhausted too and takin
 
 <Image
   src='./final-ascent-lapaz.jpeg'
-  alt=''
-  title=''
+  alt='Two men approach the summit of Illimani at sunrise. The lights of La Paz can be seen in the background.'
+  title='The final push. The lights of La Paz behind us.'
 />
 
 Julio was starting to get concerned and told us to keep moving and that it wasn't too far to go. The true summit was in sight now. We put our heads down and climbed the last short pitch onto a ridge, and then a 50 yard flat traverse, a victory amble, to the summit.
@@ -187,7 +187,7 @@ _Logramos!_ yelled Julio. We had done it. Victor immediately collapsed and actua
 
 We then began our descent. The temperature skyrocketed as the sun got higher and I had to take most of my layers off. The snow became slushy and we were able to do a lot of glissading which was fun and got us down in no time.
 
-We approached our high camp waving our ice axes in celebration. The porters, who had climbed up from basecamp again that morning, and now included two 12-year-old boys, took photos of the crazy gringos. I immediately collapsed in my tent and took a nap.
+We approached our high camp waving our ice axes in celebration. The porters, who had climbed up from basecamp again that morning, and now included two 12-year-old boys, took photos of the crazy gringos. I collapsed in my tent and took a nap.
 
 We then climbed all the way down to basecamp and drove back to La Paz. I don't remember much of that drive!
 
