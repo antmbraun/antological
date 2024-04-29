@@ -20,8 +20,6 @@ const BlogPostTemplate = ({
     title: post.title,
   }
 
-  console.log(disqusConfig)
-
   return (
     <Layout location={location} title={siteTitle}>
       <article
@@ -37,7 +35,6 @@ const BlogPostTemplate = ({
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
-        <Disqus config={disqusConfig} />
         <hr />
         <footer>
           <Bio />
@@ -69,7 +66,9 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+      <Disqus config={disqusConfig} />
     </Layout>
+
   )
 }
 
