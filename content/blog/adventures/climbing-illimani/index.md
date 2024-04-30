@@ -3,7 +3,7 @@ title: Climbing Illimani
 date: "2024-03-29"
 description: "Trip report and advice for climbing the 6,438m (21,122 ft) peak in Bolivia."
 tags: ["adventures", "mountaineering"]
-featuredImage:  "illimani-meta.png"
+featuredImage:  './illimani-meta.jpeg'
 ---
 
 In June of 2022, two friends and I set out to climb [Illimani](https://en.wikipedia.org/wiki/Illimani), the iconic 6,438m (21,122 ft) mountain near La Paz, Bolivia.
