@@ -15,7 +15,7 @@ const blogPost = path.resolve(`./src/templates/blog-post.js`)
  */
 exports.createPages = async ({ graphql, actions, reporter }) => {
 
-  const { createPage, createRedirect } = actions
+  const { createPage } = actions
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(`
@@ -61,17 +61,6 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
-
-  createRedirect({
-    fromPath: `/adventures/climbing-illiimani/climbing-illimani`,
-    toPath: `/adventures/climbing-illimani`,
-  })
-
-  createRedirect({
-    fromPath: `/adventures/skiing-the-grand-tetons/backcountry-skiing-in-the-tetons`,
-    toPath: `/adventures/skiing-the-grand-tetons`,
-  })
-
 }
 
 /**
