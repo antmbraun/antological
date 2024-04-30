@@ -1,12 +1,12 @@
 ---
 title: Climbing Illimani
 date: "2024-03-29"
-description: "Trip report and advice for climbing the 6000m+ peak in Bolivia."
+description: "Trip report and advice for climbing the 6,438m (21,122 ft) peak in Bolivia."
 tags: ["adventures", "mountaineering"]
 featuredImage:  "./Illimani-meta.png"
 ---
 
-In June of 2022, two friends and I set out to climb [Illimani](https://en.wikipedia.org/wiki/Illimani), the iconic 21,122 ft mountain near La Paz, Bolivia.
+In June of 2022, two friends and I set out to climb [Illimani](https://en.wikipedia.org/wiki/Illimani), the iconic 6,438m (21,122 ft) mountain near La Paz, Bolivia.
 
 <Image
   src="./view-of-illimani.jpeg"
@@ -138,7 +138,7 @@ The spot was beautiful but rather inhospitable on a very exposed ledge at the fo
 
 <Image
   src='./tent.jpeg'
-  alt=''
+  alt='A mountaineering tent set up at the foot of the Illimani glacier at 18,000 ft.'
   title=''
 />
 
@@ -163,7 +163,7 @@ After a short while, we reached a small plateau which gave us some much needed r
 
 <Image
   src='./final-ascent.jpeg'
-  alt=''
+  alt='A climber looks very cold and tired. The summit of Illimani is still far above him.'
   title='My face upon realizing how much we still had to climb just to get to the false summit behind me.'
 />
 
@@ -179,7 +179,7 @@ Julio was starting to get concerned and told us to keep moving and that it wasn'
 
 <Image
   src='./summit.jpeg'
-  alt=''
+  alt='Two men on the summit of Illimani. One is sleeping and the other is posing with an ice axe.'
   title=''
 />
 
@@ -193,7 +193,7 @@ We then climbed all the way down to basecamp and drove back to La Paz. I don't r
 
 <Image
   src='./car_ride_back.jpeg'
-  alt=''
+  alt='A man sleeps in a van. He is very tired after climbing Illimani.'
   title='Sleeping on the drive back to La Paz. I take sun protection very seriously.'
 />
 
@@ -201,7 +201,7 @@ We celebrated with some local fine dining, which gave me food poisoning, and I s
 
 <Image
   src='./celebratory-dinner.jpeg'
-  alt=''
+  alt='A partially crushed can with a fried potato and sauce on top of it.'
   title='La Paz has some creative restaurants, but watch out for food poisoning.'
 />
 
