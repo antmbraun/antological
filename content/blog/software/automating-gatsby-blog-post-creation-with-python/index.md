@@ -3,7 +3,7 @@ title: "Automating Gatsby blog post creation with Python"
 date: "2024-04-26"
 description: "Use this script for effortless Gatsby blog post creation"
 tags: ['software engineering']
-featuredImage: "gatsby"
+# featuredImage: "gatsby"
 ---
 
 I just started this blog and because I suffer from the typical developer affliction of constantly starting projects and then forgetting about them, I decided to enlist the help of ChatGPT to make creating new posts as frictionless as possible.
