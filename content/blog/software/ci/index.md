@@ -11,7 +11,7 @@ On the Mindbody marketing engineering team, we've implemented a CI (Continuous I
 
 For some background, we have two Drupal 10 websites hosted on Pantheon that share several resources, including these CI processes. We therefore host the processes as callable workflows in a dedicated third repo. Then, within the repos for each site, we have a very simple workflow for each process that only sets a value for `on`, e.g. on a set schedule or on the opening of a PR, and then calls the workflow in the host repo.
 
-### Callable workflow hosted in a dedicated third repo
+### Example of a callable workflow hosted in a dedicated third repo
 ```yaml
 name: Nightly dependency update
 
@@ -28,7 +28,7 @@ jobs:
 # Rest of the job steps...
 ```
 
-### Workflow thats calls the callable workflow. This is placed in each site's repo.
+### Example workflow thats calls the callable workflow. This is placed in each site's repo.
 ```yaml
 name: Nightly dependency update
 # Nightly dependency update: This script automates the process of updating project dependencies.
