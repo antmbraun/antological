@@ -49,7 +49,7 @@ jobs:
       secret2: ${{ secrets.secret2 }}
 ```
 
-Now onto the process themselves. They can be broken down into two categories: daily automations and pull-request based.
+Now onto the processes themselves. They can be broken down into two categories: (1) daily automations and (2) pull-request based.
 
 ## Daily Automations
 
