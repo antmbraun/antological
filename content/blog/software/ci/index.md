@@ -5,7 +5,7 @@ description: ""
 tags: ["software engineering"]
 ---
 
-One of the joys of the software development is finding ways to automate things. My least favorite type task is one that is long and cumbersome yet critical, so that no mistake can be made. These tasks are ripest for automation.
+One of the joys of the software development is finding ways to automate things. My least favorite type of task is one that is long and cumbersome yet critical, so that no mistake can be made. These tasks are ripest for automation.
 
 On the Mindbody marketing engineering team, we've implemented a CI (Continuous Integration) setup using GitHub Actions that automates several such tasks. This setup not only saves time but also enhances the quality and dependability of our projects. 
 
